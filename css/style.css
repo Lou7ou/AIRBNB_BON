@@ -42,3 +42,13 @@ footer{
 	font-size: 15px;
 	padding: 10px;
 }
+@media (max-width: 1000px){
+.container{
+	width: auto;
+	}
+
+#inputPassword2{
+	width:initial;
+	}
+}
+
